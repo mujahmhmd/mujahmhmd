@@ -1,9 +1,10 @@
+![logo](https://github.com/mujahmhmd/Mujahith-MhMd/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mujahith MhMd 😎</h1>
 <h3 align="center">A passionate Software Developer 🤷‍♂️</h3>
 <img align="right" width="400" alt="coding" src="https://th.bing.com/th/id/OIP.VON9gHTrzeHZbHfXsqfzEAHaEq?rs=1&pid=ImgDetMain">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujahmhmd&label=Profile%20views&color=0e75b6&style=flat" alt="mujahmhmd" /> </p>
 
-- 🔭 I’m currently working on **40Love**
+- 🪪 I’m currently working on **ExlineLabs**
 
 - 🌱 I’m currently learning **MERN Stack**
 
