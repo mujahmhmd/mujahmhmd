@@ -55,7 +55,7 @@ Passionate <b>Full-Stack Web Developer</b> with <b>2+ years</b> building scalabl
 
 ### 🎓 Education & Certifications
 - **HNDIT (GPA 3.5+, Merit)** — SLIATE, 2024  
-- **NVQ Level 6 – Information Technology (2024)**  
+- **NVQ Level 6 – Higher National DIploma in Information Technology (HNDIT)**  
 - **Python for Beginners** — Open University of Moratuwa (e-Certificate, 2023)
 
 ---
@@ -98,6 +98,4 @@ Passionate <b>Full-Stack Web Developer</b> with <b>2+ years</b> building scalabl
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mujahmhmd" alt="GitHub Streak"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujahmhmd&" alt="mujahmhmd" /></p>
