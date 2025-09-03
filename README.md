@@ -1,6 +1,6 @@
 ![logo](https://github.com/mujahmhmd/Mujahith-MhMd/blob/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Mujahith MhMd 😎</h1>
+<h1 align="center">Hi 👋, I'm Mujahith Mohamed 😎</h1>
 <h3 align="center">Associate Software Engineer • Full-Stack Developer</h3>
 
 <p align="left">
