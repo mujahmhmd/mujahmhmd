@@ -12,12 +12,12 @@
 - 🧑‍💻 I’m currently an <b>Software Engineer (Full-Stack) @ ExlineLabs</b> — building UK-based projects with <b>MERN</b> and <b>Laravel</b>.
 - 🌱 Learning new technologies.
 - 👯 Open to collaborating on impactful full-stack projects.
-- 👨‍💻 My code lives here → <b><a href="https://github.com/mujahmhmd">github.com/mujahmhmd</a></b>.
-- 📝 I sometimes blog at <b><a href="https://infotechzonez.blogspot.com">infotechzonez.blogspot.com</a></b>.
+- 👨‍💻 My code lives here → <b><a href="https://github.com/mujahmhmd" target="_blank">github.com/mujahmhmd</a></b>.
+- 📝 I sometimes blog at <b><a href="https://infotechzonez.blogspot.com" target="_blank">infotechzonez.blogspot.com</a></b>.
 - 💬 Ask me about <b>React, Node/Express, Laravel, Tailwind, RESTful APIs</b>.
-- 📫 Reach me: <b>mujahithmohamed59@gmail.com</b> · <b>+94 75 563 6350</b> · <b><a href="https://wa.me/94755636350">WhatsApp</a></b>.
-- 🔗 LinkedIn: <b><a href="https://www.linkedin.com/in/mujahith-mhmd-8a6076246">linkedin.com/in/mujahith-mhmd-8a6076246</a></b>.
-- 📫 Portfolio: <b><a href="https://mujahith-mohamed.vercel.app/">Mujahith_Mohamed</a></b>
+- 📫 Reach me: <b>mujahithmohamed59@gmail.com</b> · <b>+94 75 563 6350</b> · <b><a href="https://wa.me/94755636350" target="_blank">WhatsApp</a></b>.
+- 🔗 LinkedIn: <b><a href="https://www.linkedin.com/in/mujahith-mhmd-8a6076246" target="_blank">linkedin.com/in/mujahith-mhmd-8a6076246</a></b>.
+- 📫 Portfolio: <b><a href="https://mujahith-mohamed.vercel.app/" target="_blank">Mujahith_Mohamed</a></b>
 - ⚡ Fun fact: I think I’m funny 😁🙌
 
 ---
