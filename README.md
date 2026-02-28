@@ -1,7 +1,7 @@
 ![logo](https://github.com/mujahmhmd/Mujahith-MhMd/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Mujahith Mohamed 😎</h1>
-<h3 align="center">Associate Software Engineer • Full-Stack Developer</h3>
+<h3 align="center">Software Engineer • Full-Stack Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mujahmhmd&label=Profile%20views&color=0e75b6&style=flat" alt="mujahmhmd" />
@@ -9,14 +9,15 @@
 
 <img align="right" width="380" alt="coding" src="https://th.bing.com/th/id/OIP.VON9gHTrzeHZbHfXsqfzEAHaEq?rs=1&pid=ImgDetMain">
 
-- 🧑‍💻 I’m currently an <b>Associate Software Engineer (Full-Stack) @ ExlineLabs</b> — building UK-based projects with <b>MERN</b> and <b>Laravel</b>.
-- 🌱 Learning & loving the <b>MERN stack</b> + shipping responsive UIs from Figma with <b>React/Vue + Tailwind</b>.
+- 🧑‍💻 I’m currently an <b>Software Engineer (Full-Stack) @ ExlineLabs</b> — building UK-based projects with <b>MERN</b> and <b>Laravel</b>.
+- 🌱 Learning new technologies.
 - 👯 Open to collaborating on impactful full-stack projects.
 - 👨‍💻 My code lives here → <b><a href="https://github.com/mujahmhmd">github.com/mujahmhmd</a></b>.
 - 📝 I sometimes blog at <b><a href="https://infotechzonez.blogspot.com">infotechzonez.blogspot.com</a></b>.
 - 💬 Ask me about <b>React, Node/Express, Laravel, Tailwind, RESTful APIs</b>.
 - 📫 Reach me: <b>mujahithmohamed59@gmail.com</b> · <b>+94 75 563 6350</b> · <b><a href="https://wa.me/94755636350">WhatsApp</a></b>.
 - 🔗 LinkedIn: <b><a href="https://www.linkedin.com/in/mujahith-mhmd-8a6076246">linkedin.com/in/mujahith-mhmd-8a6076246</a></b>.
+- 📫 Portfolio: <b><a href="https://mujahith-mohamed.vercel.app/">Mujahith_Mohamed</a></b>
 - ⚡ Fun fact: I think I’m funny 😁🙌
 
 ---
